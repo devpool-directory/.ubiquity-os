@@ -175,7 +175,7 @@ plugins:
         with:
           rewards:
             evmNetworkId: 100
-            evmPrivateEncrypted: I-xRLEHZaUC7QEl05fuZW3P4-VfMysnIZadKQS6C5h4thXs-rtWS8yAnW42PHNbbG8ku43dCsU3P0V0f0GNy_66s3BiBVVEp8lZKqmq4LoshH1RYjsS6yFvIY_xPwT3EnCVB-c9x-pXuJJrS5tcUt14NXD8irqr5jfqUH05L
+            evmPrivateEncrypted: usLUsmCM46jW-cHyyEdBvPwOfEfjcuc1xgn-RPPRiig16JVYH4Z6GvDCcQv8N2qHRf-tZK9cDcKiZciZ-ad1Ux9VwU8CXvgAnKaYd0u_SjOTwtndIhVSUvTokspe5-JESsgHgPFRmMueXhqO_jJuxKzRQvKcerjPZNI
           incentives:
             requirePriceLabel: true
             limitRewards: true
